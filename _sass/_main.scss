@@ -10,7 +10,6 @@
 
 html {
 	font-size: 15px;
-	word-break: break-word;
 }
 
 #theme-toggle {
@@ -192,6 +191,8 @@ code {
 	margin: unset;
 	padding: 0.1rem;
 	color: var(--highlight-text-color);
+	 
+	
 }
 
 pre code {
@@ -205,6 +206,8 @@ pre {
 	white-space: pre-wrap;
 	border-style: none none none solid;
 	border-color: var(--light-text-color);
+	overflow-x: auto;
+  white-space: pre;
 }
 
 img {
@@ -441,6 +444,7 @@ figcaption {
 
 .bio {
 	margin-bottom: 2rem;
+	word-break: break-word;
 }
 
 ::selection {
