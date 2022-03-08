@@ -54,7 +54,7 @@ Now, to explain the algorithm in short -
 > Then one cipher text is getting generated, in which the first letter is saved at the first 8 bits.
 > And the second letter is saved at the later 8 bit location.
 
-We need to reverse engineer the above code. Basically, how to write the <i>f<sup>-1</sup>()</i> a?
+We need to reverse engineer the above code. Basically, how to write the <i>f<sup>-1</sup>()</i> of the above function?
 
 Here is the final code - 
 
