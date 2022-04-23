@@ -6,7 +6,7 @@ tags: picoCTF writeup reverse-engineering
 
 ## [Info](#info)
 
-Problem link - [picoCTF: Tab, Tab, Attack](https://play.picoctf.org/practice/challenge/121)
+Problem link - [picoCTF: keygenme-py](https://play.picoctf.org/practice/challenge/121)
 
 ## [Solution](#solution)
 
